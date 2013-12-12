@@ -1,0 +1,11 @@
+{
+    "name": "foundation-scss",
+    "description": "Fondation with SCSS",
+    "homepage": "https://github.com/deepu-tp/meteor-foundation-scss",
+    "author": "Deepu T Philip",
+    "version": "0.0.1",
+    "git": "https://github.com/deepu-tp/meteor-foundation-scss.git",
+    "packages": {
+        "scss": {}
+    }
+}
