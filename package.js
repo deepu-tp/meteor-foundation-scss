@@ -59,4 +59,7 @@ Package.on_use(function (api) {
                             'foundation.alert.js'), 'client');
     api.add_files(path.join('foundation', 'js', 'foundation',
                             'foundation.clearing.js'), 'client');
+
+    api.add_files('activate-foundation.js', 'client');
+
 });
